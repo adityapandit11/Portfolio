@@ -86,7 +86,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="/certificate"
+                href="/about"
                 target="_blank"
                 rel="noreferrer"
               >
