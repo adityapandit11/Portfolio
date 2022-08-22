@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.c704ea64.css",
-    "main.js": "/Portfolio/static/js/main.32b2b917.js",
+    "main.js": "/Portfolio/static/js/main.bf14ab47.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Aditya_Pandit_VIT.pdf": "/Portfolio/static/media/Aditya_Pandit_VIT.07ace9959c2398124d10.pdf",
     "static/media/leaf.png": "/Portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
@@ -17,11 +17,11 @@
     "static/media/pre.svg": "/Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Portfolio/index.html",
     "main.c704ea64.css.map": "/Portfolio/static/css/main.c704ea64.css.map",
-    "main.32b2b917.js.map": "/Portfolio/static/js/main.32b2b917.js.map",
+    "main.bf14ab47.js.map": "/Portfolio/static/js/main.bf14ab47.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c704ea64.css",
-    "static/js/main.32b2b917.js"
+    "static/js/main.bf14ab47.js"
   ]
 }
