@@ -28,9 +28,9 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Let us sacrifice our today so that our children can have a better tomorrow !"{" "}
           </p>
-          <footer className="blockquote-footer">Aditya Pandit</footer>
+          <footer className="blockquote-footer">APJ Abdul Kalam</footer>
         </blockquote>
       </Card.Body>
     </Card>
