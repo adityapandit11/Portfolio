@@ -10,7 +10,10 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Aditya Pandit </span>
             from <span className="purple"> Bhopal, Madhya Pradesh, India.</span>
-            <br />I am pursuing my graduation in Computer Science and Engineering From Vellore Institute of Technology, Bhopal
+            <br />Frontend Software Engineer with 2.5+ years of experience building scalable, high-performance React
+applications used in enterprise-grade energy management systems. Strong expertise in React, TypeScript,
+state management, API integration, and data-heavy dashboards, with experience working in Agile/Scrum
+teams on production systems impacting industrial operations and energy efficiency.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
